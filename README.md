@@ -44,7 +44,7 @@ L'objectif est de passer d'une application "boîte noire" à une infrastructure 
    - Health Check : http://localhost:8080/actuator/health
    - Prometheus Metrics : http://localhost:8080/actuator/prometheus
 - Health Check
-- 
+  
 ![WhatsApp Image 2026-03-29 at 20 52 52](https://github.com/user-attachments/assets/01d6e4b6-80d5-422d-8c2f-f0e5628a087f)
 
 - Infos générales
